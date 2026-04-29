@@ -1,9 +1,11 @@
 {
-  "appName": "QT",
-  "channel": "stable",
-  "latestVersion": "26.04.29",
-  "releaseDate": "2026-04-29",
-  "packageFileName": "QT_26.04.29.zip",
-  "packageUrl": "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/release/stable/QT_26.04.29.zip",
-  "notes": "Cap nhat 26.04.29."
+    "appName":  "QT",
+    "channel":  "stable",
+    "latestVersion":  "26.04.30",
+    "releaseDate":  "2026-04-30",
+    "packageFileName":  "QT_26.04.30.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/release/stable/QT_26.04.30.zip",
+    "packageFormat":  "zip",
+    "packageSha256":  "6F47DBBDF702652759B2285CCACE4CB54864DB691D206D4EB2F31065AAF6B6C2",
+    "notes":  "Cap nhat chuyen tiep: them Updater ho tro goi cap nhat co mat khau. Ban sau co the dung goi .qtpkg ma hoa."
 }
