@@ -64,6 +64,7 @@ Ung dung nay dung cho ca nhan, khong can auto update hoan toan im lang. Chap nha
 Huong thuc mong muon:
 
 - Goi cap nhat dua len public phai duoc ma hoa bang mat khau.
+- Neu ban dang cai tren may khach con dung Updater cu, can co mot ban chuyen tiep dang ZIP thuong de cai Updater moi truoc; sau do cac ban tiep theo moi dung goi ma hoa co mat khau.
 - Truoc khi giai nen, Updater hien hop nhap mat khau.
 - Mat khau chi nam trong dau nguoi dung, khong hard-code trong app, khong luu vao config, khong dua len GitHub.
 - Nhap sai mat khau thi dung cap nhat, khong ghi de file app hien tai.
