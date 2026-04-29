@@ -64,7 +64,8 @@ Ung dung nay dung cho ca nhan, khong can auto update hoan toan im lang. Chap nha
 Huong thuc mong muon:
 
 - Goi cap nhat dua len public phai duoc ma hoa bang mat khau.
-- Neu ban dang cai tren may khach con dung Updater cu, can co mot ban chuyen tiep dang ZIP thuong de cai Updater moi truoc; sau do cac ban tiep theo moi dung goi ma hoa co mat khau.
+- Moi version chi phat hanh mot goi cap nhat chinh, uu tien dinh dang `.qtpkg` co mat khau; khong duy tri song song goi mong va goi day du cho cung mot version.
+- Neu ban dang cai tren may khach con dung Updater cu, can cap nhat Updater moi mot lan truoc; sau do cac ban tiep theo chi dung mot goi `.qtpkg` co mat khau.
 - Truoc khi giai nen, Updater hien hop nhap mat khau.
 - Mat khau chi nam trong dau nguoi dung, khong hard-code trong app, khong luu vao config, khong dua len GitHub.
 - Nhap sai mat khau thi dung cap nhat, khong ghi de file app hien tai.
@@ -292,16 +293,16 @@ Dieu kien hoan thanh:
 
 Trang thai: Cho duyet.
 
-## Giai doan 8 - Dong goi phat hanh co mat khau
+## Giai doan 8 - Dong goi phat hanh mot goi co mat khau
 
 Muc tieu: tao ban phat hanh moi cho may khach cap nhat, goi runtime can thiet duoc ma hoa bang mat khau.
 
 Viec lam:
 
 - Cap nhat version theo dang ngan gon da thong nhat.
-- Tao goi update public da ma hoa bang mat khau.
-- Neu dung 7z, bat ma hoa noi dung va ten file neu cong cu ho tro.
-- Neu dung ZIP, chi dung phuong an ma hoa manh neu thu vien/Updater ho tro.
+- Tao duy nhat mot goi update public da ma hoa bang mat khau.
+- Dinh dang mac dinh la `.qtpkg`, ben trong la runtime can thiet, ben ngoai duoc ma hoa.
+- Khong phat hanh song song ZIP thuong cho cung version neu khong co ly do bat buoc.
 - Them buoc Updater hoi mat khau truoc khi giai nen.
 - Khong hard-code mat khau vao app/updater.
 - Khong luu mat khau vao file cau hinh.
