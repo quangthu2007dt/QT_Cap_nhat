@@ -43,6 +43,7 @@ Nhom chuc nang can phuc hoi tu Nguon A:
 - Cau hinh thu muc backup va thao tac backup trong man hinh cau hinh chung.
 - An/hien Chrome khi chay tuong tac.
 - Dong ho/trang thai tren giao dien chinh.
+- Set kich thuoc va vi tri cua Chrome khi mo/chay tuong tac.
 - Tuy chon ngon ngu Chrome Viet/Anh.
 - Cai tien tao Page de nhan dien giao dien Viet/Anh va lay ket qua chac hon.
 - Cai tien gui tin nhan UID co them tham so can thiet.
@@ -191,12 +192,14 @@ Pham vi:
 
 - An/hien Chrome.
 - Trang thai/dong ho tren giao dien chinh.
+- Set kich thuoc va vi tri Chrome khi mo/chay tuong tac.
 - Tuy chon ngon ngu Chrome Viet/Anh.
 - Cac cai tien tao Page va gui tin nhan UID.
 
 Cach lam:
 
 - Merge tung cum nho trong file giao dien chinh va file browser core.
+- Doi chieu cac tham so kich thuoc, vi tri, so cot/hang Chrome va noi luu cau hinh lien quan.
 - Giu lai code hien version va auto update cua Nguon B.
 - Voi cac ham da thay doi tham so, kiem tra tat ca noi goi.
 - Build sau tung cum.
@@ -205,6 +208,7 @@ Dieu kien hoan thanh:
 
 - Build qua.
 - App mo len van hien version dung.
+- Chrome mo dung kich thuoc/vi tri theo cau hinh da phuc hoi.
 - Chrome mo duoc voi ngon ngu da chon.
 - Chuc nang an/hien Chrome khong lam treo tien trinh.
 
