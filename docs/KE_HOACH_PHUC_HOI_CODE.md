@@ -14,7 +14,7 @@ Tai lieu nay chi la ke hoach thuc hien. Khong dua source code, key, database, pr
 2. Khong sua source phuc hoi truc tiep neu chua co ban merge rieng.
 3. Moi buoc co nguy co thay doi file phai bao truoc va chi lam sau khi duoc xac nhan.
 4. Khong public full source.
-5. Repo public chi dung cho manifest, goi cap nhat mong va tai lieu khong nhay cam.
+5. Repo public chi dung cho manifest, goi cap nhat da ma hoa va tai lieu khong nhay cam.
 6. Khong copy database/settings/profile/log/output that vao goi cap nhat.
 7. Khong thay doi logic ngoai pham vi phuc hoi chuc nang va cap nhat.
 8. Version hien tai su dung dang ngan gon dang `26.04.29`, khong tu y dat version dai hon.
@@ -55,7 +55,35 @@ Nhom ha tang can giu tu Nguon B:
 - Doc version tu file version.
 - Doc manifest cap nhat.
 - Kiem tra ban moi va goi Updater.
-- Goi cap nhat public dang mong, khong chua source va khong chua du lieu nguoi dung.
+- Goi cap nhat public da ma hoa bang mat khau, co the chua day du file runtime can thiet, nhung khong chua source va khong chua du lieu nguoi dung.
+
+## Quyet dinh ve goi cap nhat co mat khau
+
+Ung dung nay dung cho ca nhan, khong can auto update hoan toan im lang. Chap nhan them buoc nhap mat khau khi cap nhat de co the dua len goi runtime day du cac file can thiet hon, nhung van khong dua du lieu nguoi dung.
+
+Huong thuc mong muon:
+
+- Goi cap nhat dua len public phai duoc ma hoa bang mat khau.
+- Truoc khi giai nen, Updater hien hop nhap mat khau.
+- Mat khau chi nam trong dau nguoi dung, khong hard-code trong app, khong luu vao config, khong dua len GitHub.
+- Nhap sai mat khau thi dung cap nhat, khong ghi de file app hien tai.
+- Sau khi giai nen thanh cong moi thay file runtime.
+- Van kiem tra hash/signature de dam bao file tai ve dung goi phat hanh.
+- Uu tien ma hoa manh, vi du 7z AES-256 co ma hoa ten file, hoac ZIP AES-256 neu cong cu/thu vien ho tro. Khong dung kieu ZipCrypto cu neu co lua chon tot hon.
+
+Pham vi file co the co trong goi da ma hoa:
+
+- File runtime can thiet de app chay dung.
+- File exe/config/updater/version/manifest.
+- DLL can thiet va hop le de phan phoi trong ung dung ca nhan.
+
+File khong duoc dua vao goi, ke ca da co mat khau:
+
+- Source code.
+- Key/API key/token/cookie.
+- Database that.
+- Profile, settings, log, output, backup that.
+- File nao khong ro quyen phan phoi.
 
 ## Chien luoc phuc hoi
 
@@ -263,24 +291,33 @@ Dieu kien hoan thanh:
 
 Trang thai: Cho duyet.
 
-## Giai doan 8 - Dong goi phat hanh
+## Giai doan 8 - Dong goi phat hanh co mat khau
 
-Muc tieu: tao ban phat hanh moi cho may khach cap nhat.
+Muc tieu: tao ban phat hanh moi cho may khach cap nhat, goi runtime can thiet duoc ma hoa bang mat khau.
 
 Viec lam:
 
 - Cap nhat version theo dang ngan gon da thong nhat.
-- Tao goi update public dang mong.
+- Tao goi update public da ma hoa bang mat khau.
+- Neu dung 7z, bat ma hoa noi dung va ten file neu cong cu ho tro.
+- Neu dung ZIP, chi dung phuong an ma hoa manh neu thu vien/Updater ho tro.
+- Them buoc Updater hoi mat khau truoc khi giai nen.
+- Khong hard-code mat khau vao app/updater.
+- Khong luu mat khau vao file cau hinh.
+- Neu nhap sai mat khau, cap nhat phai dung an toan va giu nguyen ban dang chay.
 - Tao manifest tro dung file goi moi.
 - Tinh hash goi cap nhat.
-- Kiem tra zip khong chua source, database, settings, profile, log, output.
+- Kiem tra goi cap nhat khong chua source, database, settings, profile, log, output.
 - Giu ban full/private rieng neu can luu tru, khong dua len public.
 
 Dieu kien hoan thanh:
 
 - Manifest truy cap duoc.
-- File zip tai duoc.
+- File goi ma hoa tai duoc.
 - Hash local va remote khop.
+- Updater hien hop nhap mat khau truoc khi giai nen.
+- Nhap sai mat khau khong lam hong ban dang chay.
+- Nhap dung mat khau thi giai nen va cap nhat duoc.
 - May test cap nhat duoc.
 
 Trang thai: Cho duyet.
@@ -311,7 +348,7 @@ Trang thai: Cho duyet.
 - Khong dua DLL rieng tu/khong duoc phep neu chua xac dinh quyen phan phoi.
 - Khong dua file co thong tin nguoi dung that.
 - Khong thay doi co che dang nhap, token, cookie, profile neu khong nam trong pham vi phuc hoi.
-- Khong dong goi database/settings/profile mac dinh vao update zip.
+- Khong dong goi database/settings/profile mac dinh vao goi cap nhat, ke ca goi co mat khau.
 - Khong tu y doi ten app, ten version, ten repo, URL update khi chua duoc xac nhan.
 
 ## Cach lam viec tiep theo
