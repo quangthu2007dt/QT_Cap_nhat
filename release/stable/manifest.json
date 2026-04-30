@@ -1,11 +1,10 @@
 {
-    "appName":  "QT",
+    "appName":  "QUAN LY MAIL",
     "channel":  "stable",
-    "latestVersion":  "26.04.31",
+    "latestVersion":  "26.04.30",
     "releaseDate":  "2026-04-30",
-    "packageFileName":  "QT_26.04.31.qtpkg",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/release/stable/QT_26.04.31.qtpkg",
-    "packageFormat":  "qtpkg",
-    "packageSha256":  "6A65A937F7A50E39981AA41E743ECE0B056250A4F9C060256279EAE4CC2ED1F1",
-    "notes":  "Cap nhat 26.04.31. Mot goi cap nhat duy nhat co mat khau giai nen."
+    "packageFileName":  "QUAN_LY_MAIL_26.04.30.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/quan-ly-mail/release/stable/QUAN_LY_MAIL_26.04.30.zip",
+    "packageSha256":  "FEC784BEABFC5BB86ABDC930081A669DE51697BD51A6DF343BB2A1012ACBCC59",
+    "notes":  "Phat hanh QUAN LY MAIL 26.04.30 de test cap nhat."
 }
