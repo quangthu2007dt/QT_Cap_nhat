@@ -32,6 +32,7 @@ Thư mục phát hành chung dùng để:
 - Chứa metadata version
 - Push bản phát hành lên GitHub public
 - Tạo link raw.githubusercontent.com để app tải update
+- Là nơi các máy dev có thể git pull để lấy trạng thái phát hành mới nhất
 ```
 
 Ví dụ link update:
@@ -128,7 +129,98 @@ Không đặt source code chính của app vào public release repo.
 
 ---
 
-## 7. Khi nào dùng repo public clone
+## 7. Quy trình tải bản mới nhất xuống
+
+Có 3 trường hợp phải phân biệt rõ.
+
+### 7.1. App người dùng tự tải bản mới nhất
+
+App đang chạy sẽ đọc file:
+
+```text
+latest.json
+```
+
+trên repo public, sau đó lấy `packageUrl` để tải file `.zip` mới nhất.
+
+Luồng đúng:
+
+```text
+App đang chạy
+→ đọc latest.json từ GitHub public
+→ so sánh version hiện tại với latestVersion
+→ nếu có bản mới thì tải packageUrl
+→ updater giải nén/thay file app
+→ mở lại app bản mới
+```
+
+Ví dụ:
+
+```text
+DANG_NHAP_FB/latest.json
+```
+
+trỏ tới:
+
+```text
+DANG_NHAP_FB/releases/V2.80/DANG_NHAP_FACEBOOK_V2_80.zip
+```
+
+Đây là luồng update của người dùng, không liên quan tới thư mục source.
+
+---
+
+### 7.2. Máy dev muốn cập nhật repo public clone mới nhất
+
+Nếu làm việc trên máy khác, cần kéo trạng thái phát hành mới nhất của repo public về:
+
+```powershell
+cd E:\QT_Cap_nhat
+git pull origin main
+```
+
+Mục đích:
+
+```text
+- Lấy latest.json mới nhất
+- Lấy danh sách releases mới nhất
+- Tránh phát hành đè hoặc thiếu bản từ máy khác
+```
+
+Trước khi chạy script phát hành, nên đảm bảo repo public clone đã được pull mới nhất.
+
+---
+
+### 7.3. Tải bản zip mới nhất về để test riêng
+
+Nếu muốn test như người dùng thật, không test trong source.
+
+Nên có thư mục test riêng, ví dụ:
+
+```text
+E:\TEST_APP_UPDATE\DANG_NHAP_FB
+```
+
+Quy trình:
+
+```text
+1. Tải zip mới nhất từ packageUrl trong latest.json
+2. Giải nén vào thư mục test riêng
+3. Chạy app trong thư mục test
+4. Không sửa code trong thư mục test
+```
+
+Không test update trực tiếp trong:
+
+```text
+E:\DANG_NHAP_FB_SOURCE
+```
+
+vì thư mục source là nơi sửa code, không phải môi trường người dùng cuối.
+
+---
+
+## 8. Khi nào dùng repo public clone
 
 Chỉ dùng repo public clone khi:
 
@@ -137,13 +229,14 @@ Chỉ dùng repo public clone khi:
 - Cần cập nhật latest.json
 - Cần kiểm tra cấu trúc bản release
 - Cần push bản update công khai
+- Cần git pull để lấy trạng thái phát hành mới nhất từ GitHub public
 ```
 
 Không dùng repo public clone để sửa Form1.cs, service, class, Designer hoặc code chính của app.
 
 ---
 
-## 8. Quy tắc version
+## 9. Quy tắc version
 
 Mỗi lần phát hành bản mới phải tăng version.
 
@@ -163,7 +256,7 @@ Có lỗi logic sau phát hành → sửa ở source → build OK → phát hàn
 
 ---
 
-## 9. Quy tắc an toàn
+## 10. Quy tắc an toàn
 
 Không được phát hành nếu build lỗi.
 
@@ -173,13 +266,24 @@ Không được để nhiều app ghi chung một thư mục release.
 
 Không được xóa bản release cũ nếu chưa chắc chắn không cần rollback.
 
+Trước khi phát hành từ máy bất kỳ:
+
+```text
+1. Pull repo public clone mới nhất
+2. Kiểm tra version sắp phát hành chưa tồn tại
+3. Chạy script phát hành
+4. Push repo public clone
+```
+
 ---
 
-## 10. Kết luận ngắn
+## 11. Kết luận ngắn
 
 ```text
 Thư mục source = nơi sửa code.
 Thư mục public repo clone = nơi chứa file update cho app tải.
+App người dùng tải bản mới từ latest.json/packageUrl.
+Máy dev tải trạng thái phát hành mới nhất bằng git pull repo public clone.
 Một app có một source riêng.
 Nhiều app có thể dùng chung một repo public phát hành.
 ```
