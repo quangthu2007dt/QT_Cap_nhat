@@ -1,11 +1,11 @@
 {
-    "appName":  "QT",
-    "channel":  "stable",
-    "latestVersion":  "26.04.31",
-    "releaseDate":  "2026-04-30",
-    "packageFileName":  "QT_26.04.31.qtpkg",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/release/stable/QT_26.04.31.qtpkg",
-    "packageFormat":  "qtpkg",
-    "packageSha256":  "6A65A937F7A50E39981AA41E743ECE0B056250A4F9C060256279EAE4CC2ED1F1",
-    "notes":  "Cap nhat 26.04.31. Mot goi cap nhat duy nhat co mat khau giai nen."
+    "appName": "QT",
+    "channel": "stable",
+    "latestVersion": "26.05.03",
+    "releaseDate": "2026-05-03",
+    "packageFileName": "MaxCare_26.05.03.qtpkg",
+    "packageUrl": "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/MaxCare/releases/26.05.03/MaxCare_26.05.03.qtpkg",
+    "packageFormat": "qtpkg",
+    "packageSha256": "3DAB245471739FBBA34508A90FBD3DD4B9855ABDFAC704A963F8118D44D7DC34",
+    "notes": "Cau noi legacy: cap nhat tu QT 26.04.31 sang MaxCare 26.05.03."
 }
