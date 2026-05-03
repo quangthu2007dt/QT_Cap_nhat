@@ -1,4 +1,4 @@
-{
+﻿{
     "appName": "QT",
     "channel": "stable",
     "latestVersion": "26.05.03",
@@ -6,6 +6,6 @@
     "packageFileName": "MaxCare_26.05.03.qtpkg",
     "packageUrl": "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/MaxCare/releases/26.05.03/MaxCare_26.05.03.qtpkg",
     "packageFormat": "qtpkg",
-    "packageSha256": "3DAB245471739FBBA34508A90FBD3DD4B9855ABDFAC704A963F8118D44D7DC34",
+    "packageSha256": "4B85B06642BE7131B618B03CD8DA98765851B4B35F5E9CF0CD6BDC550D4AB9A4",
     "notes": "Cau noi legacy: cap nhat tu QT 26.04.31 sang MaxCare 26.05.03."
 }
