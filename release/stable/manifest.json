@@ -6,6 +6,6 @@
     "packageFileName":  "MaxCare_Bridge_26.05.07.01.zip",
     "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/release/stable/MaxCare_Bridge_26.05.07.01.zip",
     "packageFormat":  "zip",
-    "packageSha256":  "4fbf10b19cefc5aeeef6524599494e28dc04783ed3521daae028cce97ce18afb",
+    "packageSha256":  "37f41e2f4fee22fffaa1e05b887370b60c4c51badd8609bcd63eef8e48490f4c",
     "notes":  "Cầu nối legacy: cập nhật updater mới để hỗ trợ nhập lại mật khẩu."
 }
