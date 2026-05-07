@@ -1,11 +1,11 @@
-{
-  "appName": "QT",
-  "channel": "stable",
-  "latestVersion": "26.05.07",
-  "releaseDate": "2026-05-07",
-  "packageFileName": "MaxCare_26.05.07.qtpkg",
-  "packageUrl": "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/MaxCare/releases/26.05.07/MaxCare_26.05.07.qtpkg",
-  "packageFormat": "qtpkg",
-  "packageSha256": "c3bef611e592870fb5abb75e7be63d5835f947325b3c0e74a663af2726ad3247",
-  "notes": "Cau noi legacy: cap nhat tu kenh cu sang MaxCare 26.05.07."
+﻿{
+    "appName":  "QT",
+    "channel":  "stable",
+    "latestVersion":  "26.05.07.01",
+    "releaseDate":  "2026-05-07",
+    "packageFileName":  "MaxCare_Bridge_26.05.07.01.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/release/stable/MaxCare_Bridge_26.05.07.01.zip",
+    "packageFormat":  "zip",
+    "packageSha256":  "4fbf10b19cefc5aeeef6524599494e28dc04783ed3521daae028cce97ce18afb",
+    "notes":  "Cầu nối legacy: cập nhật updater mới để hỗ trợ nhập lại mật khẩu."
 }
