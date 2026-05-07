@@ -1,11 +1,11 @@
 ﻿{
     "appName":  "MaxCare",
     "channel":  "stable",
-    "latestVersion":  "26.05.07",
+    "latestVersion":  "26.05.07.02",
     "releaseDate":  "2026-05-07",
-    "packageFileName":  "MaxCare_26.05.07.qtpkg",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/MaxCare/releases/26.05.07/MaxCare_26.05.07.qtpkg",
+    "packageFileName":  "MaxCare_26.05.07.02.qtpkg",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/MaxCare/releases/26.05.07.02/MaxCare_26.05.07.02.qtpkg",
     "packageFormat":  "qtpkg",
-    "packageSha256":  "c3bef611e592870fb5abb75e7be63d5835f947325b3c0e74a663af2726ad3247",
-    "notes":  "Phat hanh MaxCare 26.05.07. Goi cap nhat co mat khau giai nen."
+    "packageSha256":  "0f0b94e056d39b9f2b633c826329dbeeb04cb5f363ad69f9f5143e5085ef1bbc",
+    "notes":  "PhÃ¡t hÃ nh MaxCare 26.05.07.02. GÃ³i cáº­p nháº­t cÃ³ máº­t kháº©u giáº£i nÃ©n."
 }
