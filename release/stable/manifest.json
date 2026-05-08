@@ -1,5 +1,5 @@
 ﻿{
-    "appName":  "QT",
+    "appName":  "MaxCare",
     "channel":  "stable",
     "latestVersion":  "26.05.08.03",
     "releaseDate":  "2026-05-08",
@@ -7,5 +7,5 @@
     "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/MaxCare/releases/26.05.08.03/MaxCare_26.05.08.03.qtpkg",
     "packageFormat":  "qtpkg",
     "packageSha256":  "2029199c75aaece4eb91ff7fa751f1ee140ea0ea828aa2e4ae4ee2d09dd20661",
-    "notes":  "Cầu nối legacy: cập nhật từ kênh cũ sang MaxCare 26.05.08.03."
+    "notes":  "Phát hành MaxCare 26.05.08.03. Gói cập nhật có mật khẩu giải nén."
 }
