@@ -1,11 +1,11 @@
 ﻿{
     "appName":  "QT",
     "channel":  "stable",
-    "latestVersion":  "26.05.08.01",
+    "latestVersion":  "26.05.08.03",
     "releaseDate":  "2026-05-08",
-    "packageFileName":  "MaxCare_Bridge_26.05.08.01.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/release/stable/MaxCare_Bridge_26.05.08.01.zip",
-    "packageFormat":  "zip",
-    "packageSha256":  "93e08dd4751b13fa507aceae55314d10a44cab9892b10dd058857b42cf6462b9",
-    "notes":  "Cầu nối legacy: cập nhật updater mới để hỗ trợ nhập lại mật khẩu."
+    "packageFileName":  "MaxCare_26.05.08.03.qtpkg",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/MaxCare/releases/26.05.08.03/MaxCare_26.05.08.03.qtpkg",
+    "packageFormat":  "qtpkg",
+    "packageSha256":  "2029199c75aaece4eb91ff7fa751f1ee140ea0ea828aa2e4ae4ee2d09dd20661",
+    "notes":  "Cầu nối legacy: cập nhật từ kênh cũ sang MaxCare 26.05.08.03."
 }
