@@ -1,9 +1,9 @@
 {
     "appName":  "DANG NHAP FACEBOOK V2",
     "channel":  "stable",
-    "latestVersion":  "V2.90",
-    "releaseDate":  "2026-05-12",
-    "packageFileName":  "DANG_NHAP_FACEBOOK_V2_90.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/DANG_NHAP_FB/releases/V2.90/DANG_NHAP_FACEBOOK_V2_90.zip",
-    "notes":  "Phat hanh V2.90 tu script 1-click."
+    "latestVersion":  "V2.91",
+    "releaseDate":  "2026-05-13",
+    "packageFileName":  "DANG_NHAP_FACEBOOK_V2_91.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/DANG_NHAP_FB/releases/V2.91/DANG_NHAP_FACEBOOK_V2_91.zip",
+    "notes":  "Sua kiem tra cookie fail va xac minh thiet bi khac"
 }
