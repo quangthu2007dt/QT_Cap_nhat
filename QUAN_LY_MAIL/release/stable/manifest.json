@@ -1,9 +1,9 @@
 ﻿{
     "appName":  "QUAN LY MAIL",
     "channel":  "stable",
-    "latestVersion":  "26.05.16.02",
-    "releaseDate":  "2026-05-16",
-    "packageFileName":  "QUAN_LY_MAIL_26.05.16.02.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/QUAN_LY_MAIL/release/stable/QUAN_LY_MAIL_26.05.16.02.zip",
-    "notes":  "Sua logic ID, chua phan loai va tong dong grid."
+    "latestVersion":  "26.05.17",
+    "releaseDate":  "2026-05-17",
+    "packageFileName":  "QUAN_LY_MAIL_26.05.17.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/QUAN_LY_MAIL/release/stable/QUAN_LY_MAIL_26.05.17.zip",
+    "notes":  "Phat hanh 26.05.17 tu script 1-click."
 }
