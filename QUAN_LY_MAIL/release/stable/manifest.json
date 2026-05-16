@@ -1,9 +1,9 @@
 ﻿{
     "appName":  "QUAN LY MAIL",
     "channel":  "stable",
-    "latestVersion":  "26.05.16",
+    "latestVersion":  "26.05.16.01",
     "releaseDate":  "2026-05-16",
-    "packageFileName":  "QUAN_LY_MAIL_26.05.16.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/QUAN_LY_MAIL/release/stable/QUAN_LY_MAIL_26.05.16.zip",
-    "notes":  "Sua tat ca thu muc, nhap tai khoan, chuyen thu muc va mau tuong tac cuoi."
+    "packageFileName":  "QUAN_LY_MAIL_26.05.16.01.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/QUAN_LY_MAIL/release/stable/QUAN_LY_MAIL_26.05.16.01.zip",
+    "notes":  "Doi nguon cap nhat sang github-first de tranh manifest local cu."
 }
