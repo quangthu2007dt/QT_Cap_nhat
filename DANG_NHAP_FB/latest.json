@@ -1,9 +1,9 @@
 {
     "appName":  "DANG NHAP FACEBOOK V2",
     "channel":  "stable",
-    "latestVersion":  "V2.92",
-    "releaseDate":  "2026-05-13",
-    "packageFileName":  "DANG_NHAP_FACEBOOK_V2_92.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/DANG_NHAP_FB/releases/V2.92/DANG_NHAP_FACEBOOK_V2_92.zip",
-    "notes":  "Sua chon dong va giu boi xanh menu chuot phai"
+    "latestVersion":  "V2.93",
+    "releaseDate":  "2026-06-10",
+    "packageFileName":  "DANG_NHAP_FACEBOOK_V2_93.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/DANG_NHAP_FB/releases/V2.93/DANG_NHAP_FACEBOOK_V2_93.zip",
+    "notes":  "Phat hanh V2.93 tu script 1-click."
 }
