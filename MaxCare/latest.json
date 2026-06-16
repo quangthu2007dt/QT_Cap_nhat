@@ -1,11 +1,11 @@
 ﻿{
     "appName":  "MaxCare",
     "channel":  "stable",
-    "latestVersion":  "26.06.01",
-    "releaseDate":  "2026-06-01",
-    "packageFileName":  "MaxCare_26.06.01.qtpkg",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/MaxCare/releases/26.06.01/MaxCare_26.06.01.qtpkg",
+    "latestVersion":  "26.06.16",
+    "releaseDate":  "2026-06-16",
+    "packageFileName":  "MaxCare_26.06.16.qtpkg",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/MaxCare/releases/26.06.16/MaxCare_26.06.16.qtpkg",
     "packageFormat":  "qtpkg",
-    "packageSha256":  "6c6fee1a99c5837f107f894942ac6f81e51702c14578c2be4c0d26ea48222649",
-    "notes":  "Phát hành MaxCare 26.06.01. Gói cập nhật có mật khẩu giải nén."
+    "packageSha256":  "27860b1ab2bdbe8ffd4a63843b3d992cc6f4a732a8b4b9cdde0c45d26302c69a",
+    "notes":  "Phát hành MaxCare 26.06.16. Gói cập nhật có mật khẩu giải nén."
 }
