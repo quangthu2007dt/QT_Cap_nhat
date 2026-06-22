@@ -1,9 +1,9 @@
 ﻿{
     "appName":  "QUAN LY MAIL",
     "channel":  "stable",
-    "latestVersion":  "26.05.30",
-    "releaseDate":  "2026-05-30",
-    "packageFileName":  "QUAN_LY_MAIL_26.05.30.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/QUAN_LY_MAIL/release/stable/QUAN_LY_MAIL_26.05.30.zip",
-    "notes":  "Sua xoa va chuyen thu muc ao, cap nhat image menu chuot phai"
+    "latestVersion":  "26.06.22",
+    "releaseDate":  "2026-06-22",
+    "packageFileName":  "QUAN_LY_MAIL_26.06.22.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/QUAN_LY_MAIL/release/stable/QUAN_LY_MAIL_26.06.22.zip",
+    "notes":  "Phat hanh 26.06.22 tu script 1-click."
 }
