@@ -1,9 +1,9 @@
 {
     "appName":  "QUAN LY MAIL",
     "channel":  "stable",
-    "latestVersion":  "26.07.04",
-    "releaseDate":  "2026-07-04",
-    "packageFileName":  "QUAN_LY_MAIL_26.07.04.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/QUAN_LY_MAIL/release/stable/QUAN_LY_MAIL_26.07.04.zip",
-    "notes":  "Phat hanh 26.07.04 tu script 1-click."
+    "latestVersion":  "26.07.05",
+    "releaseDate":  "2026-07-05",
+    "packageFileName":  "QUAN_LY_MAIL_26.07.05.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/QUAN_LY_MAIL/release/stable/QUAN_LY_MAIL_26.07.05.zip",
+    "notes":  "Phat hanh 26.07.05 tu script 1-click."
 }
