@@ -1,9 +1,9 @@
 {
     "appName":  "DANG NHAP FACEBOOK V2",
     "channel":  "stable",
-    "latestVersion":  "V2.100",
+    "latestVersion":  "V2.101",
     "releaseDate":  "2026-07-30",
-    "packageFileName":  "DANG_NHAP_FACEBOOK_V2_100.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/DANG_NHAP_FB/releases/V2.100/DANG_NHAP_FACEBOOK_V2_100.zip",
-    "notes":  "Hoan thien tim kiem tai khoan va tu dong nhan dang o dia phat hanh."
+    "packageFileName":  "DANG_NHAP_FACEBOOK_V2_101.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/DANG_NHAP_FB/releases/V2.101/DANG_NHAP_FACEBOOK_V2_101.zip",
+    "notes":  "Hoan thien tim kiem va quy trinh phat hanh tu dong tren may Windows moi."
 }
