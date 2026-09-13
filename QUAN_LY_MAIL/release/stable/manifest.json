@@ -1,9 +1,9 @@
 {
     "appName":  "QUAN LY MAIL",
     "channel":  "stable",
-    "latestVersion":  "26.09.13",
+    "latestVersion":  "26.09.13.01",
     "releaseDate":  "2026-09-13",
-    "packageFileName":  "QUAN_LY_MAIL_26.09.13.zip",
-    "packageUrl":  "https://github.com/quangthu2007dt/QT_Cap_nhat/releases/download/quan-ly-mail-26.09.13/QUAN_LY_MAIL_26.09.13.zip",
-    "notes":  "Sua hien thi Facebook theo kich thuoc cua so Chrome that."
+    "packageFileName":  "QUAN_LY_MAIL_26.09.13.01.zip",
+    "packageUrl":  "https://github.com/quangthu2007dt/QT_Cap_nhat/releases/download/quan-ly-mail-26.09.13.01/QUAN_LY_MAIL_26.09.13.01.zip",
+    "notes":  "Sua kiem tra cap nhat khi IPv6 loi, fallback IPv4."
 }
