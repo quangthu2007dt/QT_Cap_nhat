@@ -1,9 +1,9 @@
 {
     "appName":  "QUAN LY MAIL",
     "channel":  "stable",
-    "latestVersion":  "26.09.25",
-    "releaseDate":  "2026-09-25",
-    "packageFileName":  "QUAN_LY_MAIL_26.09.25.zip",
-    "packageUrl":  "https://github.com/quangthu2007dt/QT_Cap_nhat/releases/download/quan-ly-mail-26.09.25/QUAN_LY_MAIL_26.09.25.zip",
-    "notes":  "Dong bo UI theo TTC; tim kiem bo tick cu; xac nhan khi copy nhieu dong"
+    "latestVersion":  "26.10.15",
+    "releaseDate":  "2026-10-15",
+    "packageFileName":  "QUAN_LY_MAIL_26.10.15.zip",
+    "packageUrl":  "https://github.com/quangthu2007dt/QT_Cap_nhat/releases/download/quan-ly-mail-26.10.15/QUAN_LY_MAIL_26.10.15.zip",
+    "notes":  "AI Core, Gmail, Hotmail, Facebook, Mail Phu va tim kiem tong hop"
 }
