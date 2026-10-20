@@ -75,3 +75,15 @@ Không bao giờ được hiểu yêu cầu “dọn local”, “chỉ giữ m�
 ## 7. NGUYÊN TẮC CAO NHẤT
 
 **KHÔNG BAO GIỜ XÓA MAIN. KHÔNG BAO GIỜ XÓA BẢN SỬ DỤNG. LOCAL CHỈ CÓ MỘT SOURCE PHÁT TRIỂN, KHÔNG TẠO THƯ MỤC RÁC.**
+
+## GIỮ NGUYÊN QUY TRÌNH PHÁT HÀNH ĐÃ CHỐT — 20/10/2026
+
+Yêu cầu trực tiếp của chủ app: luôn phát hành theo quy tắc cũ của từng app; mọi người/AI/Codex phải tuân thủ.
+
+- Trước khi phát hành, đọc đúng hướng dẫn, script, quy ước version, định dạng gói, nơi phát hành và cách cập nhật bản sử dụng đã có của app. Thực hiện đúng quy trình đó; không tự thay bằng cách đóng gói, đăng tải hoặc triển khai khác cho tiện.
+- Với app đã có script phát hành một lần bấm, dùng đúng script và các bước xác nhận/nhập thông tin đã chốt. Không coi yêu cầu “ghép main và phát hành” là quyền bỏ bước bảo vệ hoặc tự đổi cơ chế phát hành.
+- Với app vốn dùng gói có mật khẩu/mã hóa, giữ đúng định dạng và cơ chế cũ; mật khẩu do chủ app nhập ở bước nhập kín hiện có. Không tự đặt/đoán mật khẩu, bỏ mã hóa, dùng tùy chọn bỏ mật khẩu, hoặc ghi mật khẩu vào chat, source, manifest, commit hay nhật ký.
+- Giữ quy tắc Git/version/build/test riêng của từng app. Chỉ phát hành mốc source đã được chủ app chốt theo quy trình của app; kiểm tra đúng commit, version, gói và manifest trước khi báo thành công. Báo rõ phạm vi đã kiểm thử và phần chưa kiểm thử.
+- Cập nhật bản sử dụng đúng vị trí đã quy định, chỉ thay các tệp chương trình cần thiết; giữ nguyên dữ liệu, cấu hình, tài khoản, cookie, token, profile, lịch sử và báo cáo. Không xóa cả thư mục bản sử dụng để tạo lại.
+- Nếu thiếu thông tin hoặc chưa qua một bước bắt buộc, hoàn tất phần chuẩn bị có thể kiểm tra được rồi dừng đúng bước đó để chủ app xử lý; không tự lách quy trình. Chỉ thay quy trình khi chủ app yêu cầu rõ ràng việc thay đổi đó.
+- Yêu cầu ghi quy tắc lên main các app chỉ cho phép commit tài liệu liên quan; không kèm code, binary, dữ liệu hoặc tự phát hành các app khác. Mục này bổ sung quy tắc hiện có, không thay thế các yêu cầu riêng đã được chủ app chốt.
