@@ -1,9 +1,9 @@
 {
-    "appName":  "DANG NHAP FACEBOOK V2",
-    "channel":  "stable",
-    "latestVersion":  "V2.108",
-    "releaseDate":  "2026-09-25",
-    "packageFileName":  "DANG_NHAP_FACEBOOK_V2_108.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/DANG_NHAP_FB/releases/V2.108/DANG_NHAP_FACEBOOK_V2_108.zip",
-    "notes":  "Phat hanh V2.108 tu script 1-click."
+  "appName": "DANG NHAP FACEBOOK V2",
+  "channel": "stable",
+  "latestVersion": "V2.109",
+  "releaseDate": "2026-10-20",
+  "packageFileName": "DANG_NHAP_FACEBOOK_V2_109.zip",
+  "packageUrl": "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/DANG_NHAP_FB/releases/V2.109/DANG_NHAP_FACEBOOK_V2_109.zip",
+  "notes": "Bỏ hộp chọn Tất cả trong tìm kiếm; thêm Bỏ qua để thoát khi mở nhầm; giữ nguyên cơ chế đăng nhập."
 }
