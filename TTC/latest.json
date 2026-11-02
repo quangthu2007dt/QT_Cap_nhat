@@ -1,12 +1,12 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.04",
+    "latestVersion":  "1.05",
     "releaseDate":  "2026-11-02",
-    "packageFileName":  "TTC_1.04.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.04/TTC_1.04.zip",
-    "sha256":  "EA64942558B0FE3B35218F3415DB7FDB9FBD4CD924A0D6FE0B85447774317D9F",
-    "size":  72077389,
-    "notes":  "Cai thien thong bao cap nhat TTC de hieu hon, khong thay doi cach TTC lam nhiem vu.",
-    "sourceCommit":  "b71ba91256139873a368a0d4c682593dd325285c"
+    "packageFileName":  "TTC_1.05.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.05/TTC_1.05.zip",
+    "sha256":  "33E0B3F863397C1A583A697B44A9584D7FA11C9F6B65A706113758375A154270",
+    "size":  72078950,
+    "notes":  "Cải thiện cập nhật TTC trước khi mở chương trình, cho phép hủy an toàn và thông báo dễ hiểu. Giữ nguyên nhiệm vụ.",
+    "sourceCommit":  "2841ec69475eadf39a89684c16e3c5a52e6a3cd9"
 }
