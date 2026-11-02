@@ -1,12 +1,12 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.02",
-    "releaseDate":  "2026-11-01",
-    "packageFileName":  "TTC_1.02.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.02/TTC_1.02.zip",
-    "sha256":  "A03738C0A2DA8D25DA3146A09B6A4A6CFA1B76FF14ACBBF13FAEC19857315498",
-    "size":  72074992,
-    "notes":  "",
-    "sourceCommit":  "049a7e03616818e9b3441570410e163157a42d00"
+    "latestVersion":  "1.03",
+    "releaseDate":  "2026-11-02",
+    "packageFileName":  "TTC_1.03.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.03/TTC_1.03.zip",
+    "sha256":  "6EACA394A878AACBA79AA0333B67A5BDF7D239D9426153DCC20F2F6463298FC0",
+    "size":  72005184,
+    "notes":  "TTC 1.03: Cai thien NV5, xac nhan ket qua va tranh lap; giu logic goc.",
+    "sourceCommit":  "d62b6144e9eff50477cb80d7cc8c690d5878d78d"
 }
