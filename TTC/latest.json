@@ -1,12 +1,12 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.09",
+    "latestVersion":  "1.10",
     "releaseDate":  "2026-11-05",
-    "packageFileName":  "TTC_1.09.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.09/TTC_1.09.zip",
-    "sha256":  "30A0AD4234DB6EEAD214D10707DB689990386D942B1C23C7D7204B3E007C2242",
-    "size":  72081801,
-    "notes":  "Sua TTC kiem tra proxy IPv6 dung tren nhieu dich vu; tranh bao loi khi proxy con hoat dong; giu nguyen nhiem vu va du lieu.",
-    "sourceCommit":  "5cf769931a79249260324d181deda475e2d13405"
+    "packageFileName":  "TTC_1.10.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.10/TTC_1.10.zip",
+    "sha256":  "F89839F11C68F16A6719BC46C013CC0A678276F62A64ECFADE9270F01DF6BE8A",
+    "size":  72081867,
+    "notes":  "TTC kiem tra cap nhat moi 5 phut ke ca khi dang chay nhiem vu; hien ban moi va chi cai khi da dung; giu an toan du lieu.",
+    "sourceCommit":  "b5a568ce66ba342c5e3e95c1be54949f83f83940"
 }
