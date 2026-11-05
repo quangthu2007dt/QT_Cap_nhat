@@ -1,12 +1,12 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.06",
+    "latestVersion":  "1.07",
     "releaseDate":  "2026-11-05",
-    "packageFileName":  "TTC_1.06.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.06/TTC_1.06.zip",
-    "sha256":  "A82DC6627108B0869A7FB67B0CDDEEE83BAA92EED35233F66D869A601239E7A1",
-    "size":  72007899,
-    "notes":  "Khi tài khoản Facebook bị checkpoint, TTC dừng riêng nick đó ngay, không tự đăng nhập lại nhiều lần và chuyển sang nick khác. Giữ nguyên nhiệm vụ, dữ liệu.",
-    "sourceCommit":  "2b1edce62ba32e027f050b3b2114cae3a9d13b5d"
+    "packageFileName":  "TTC_1.07.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.07/TTC_1.07.zip",
+    "sha256":  "ED2CF45C8775E35C3897992CBCD3455FD7E9053192360B7CE81A8306A18D2427",
+    "size":  72007949,
+    "notes":  "Sửa lỗi hiển thị dấu tiếng Việt ở trạng thái tạm nghỉ nhiệm vụ và nhãn chờ TTC. Không thay đổi nhiệm vụ, nhận xu, tài khoản hoặc dữ liệu.",
+    "sourceCommit":  "b1b7acd0ebdc8e91ed9998bc27bb535c92699e0c"
 }
