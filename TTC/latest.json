@@ -1,12 +1,12 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.05",
-    "releaseDate":  "2026-11-02",
-    "packageFileName":  "TTC_1.05.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.05/TTC_1.05.zip",
-    "sha256":  "33E0B3F863397C1A583A697B44A9584D7FA11C9F6B65A706113758375A154270",
-    "size":  72078950,
-    "notes":  "Cải thiện cập nhật TTC trước khi mở chương trình, cho phép hủy an toàn và thông báo dễ hiểu. Giữ nguyên nhiệm vụ.",
-    "sourceCommit":  "2841ec69475eadf39a89684c16e3c5a52e6a3cd9"
+    "latestVersion":  "1.06",
+    "releaseDate":  "2026-11-05",
+    "packageFileName":  "TTC_1.06.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.06/TTC_1.06.zip",
+    "sha256":  "A82DC6627108B0869A7FB67B0CDDEEE83BAA92EED35233F66D869A601239E7A1",
+    "size":  72007899,
+    "notes":  "Khi tài khoản Facebook bị checkpoint, TTC dừng riêng nick đó ngay, không tự đăng nhập lại nhiều lần và chuyển sang nick khác. Giữ nguyên nhiệm vụ, dữ liệu.",
+    "sourceCommit":  "2b1edce62ba32e027f050b3b2114cae3a9d13b5d"
 }
