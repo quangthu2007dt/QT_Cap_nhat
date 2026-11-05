@@ -1,12 +1,12 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.08",
+    "latestVersion":  "1.09",
     "releaseDate":  "2026-11-05",
-    "packageFileName":  "TTC_1.08.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.08/TTC_1.08.zip",
-    "sha256":  "385A0D45A80906C254F989018CF312CD30E157453849B3428C06964201CF0914",
-    "size":  72081734,
-    "notes":  "Sua co che tu cap nhat TTC khi IPv6 loi va tu thu lai khi ranh; giu nguyen nhiem vu va du lieu.",
-    "sourceCommit":  "c32cf3d1b38889b668aa20470bef961a04879530"
+    "packageFileName":  "TTC_1.09.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.09/TTC_1.09.zip",
+    "sha256":  "30A0AD4234DB6EEAD214D10707DB689990386D942B1C23C7D7204B3E007C2242",
+    "size":  72081801,
+    "notes":  "Sua TTC kiem tra proxy IPv6 dung tren nhieu dich vu; tranh bao loi khi proxy con hoat dong; giu nguyen nhiem vu va du lieu.",
+    "sourceCommit":  "5cf769931a79249260324d181deda475e2d13405"
 }
