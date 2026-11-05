@@ -1,12 +1,12 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.10",
+    "latestVersion":  "1.11",
     "releaseDate":  "2026-11-05",
-    "packageFileName":  "TTC_1.10.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.10/TTC_1.10.zip",
-    "sha256":  "F89839F11C68F16A6719BC46C013CC0A678276F62A64ECFADE9270F01DF6BE8A",
-    "size":  72081867,
-    "notes":  "TTC kiem tra cap nhat moi 5 phut ke ca khi dang chay nhiem vu; hien ban moi va chi cai khi da dung; giu an toan du lieu.",
-    "sourceCommit":  "b5a568ce66ba342c5e3e95c1be54949f83f83940"
+    "packageFileName":  "TTC_1.11.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.11/TTC_1.11.zip",
+    "sha256":  "A80DCA7EE231B490B7A00430F7855D5AD978CAC584E436A157AA27A300D6594D",
+    "size":  72083401,
+    "notes":  "TTC lay thong tin phien ban tu hai nguon GitHub doc lap, tu chon ban moi va du phong khi mot nguon loi hoac tra ban cu.",
+    "sourceCommit":  "26b51f902c3e8d3b61945ee05904fcaaca889dd0"
 }
