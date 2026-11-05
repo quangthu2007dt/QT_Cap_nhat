@@ -1,12 +1,12 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.07",
+    "latestVersion":  "1.08",
     "releaseDate":  "2026-11-05",
-    "packageFileName":  "TTC_1.07.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.07/TTC_1.07.zip",
-    "sha256":  "ED2CF45C8775E35C3897992CBCD3455FD7E9053192360B7CE81A8306A18D2427",
-    "size":  72007949,
-    "notes":  "Sửa lỗi hiển thị dấu tiếng Việt ở trạng thái tạm nghỉ nhiệm vụ và nhãn chờ TTC. Không thay đổi nhiệm vụ, nhận xu, tài khoản hoặc dữ liệu.",
-    "sourceCommit":  "b1b7acd0ebdc8e91ed9998bc27bb535c92699e0c"
+    "packageFileName":  "TTC_1.08.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.08/TTC_1.08.zip",
+    "sha256":  "385A0D45A80906C254F989018CF312CD30E157453849B3428C06964201CF0914",
+    "size":  72081734,
+    "notes":  "Sua co che tu cap nhat TTC khi IPv6 loi va tu thu lai khi ranh; giu nguyen nhiem vu va du lieu.",
+    "sourceCommit":  "c32cf3d1b38889b668aa20470bef961a04879530"
 }
