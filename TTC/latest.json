@@ -1,12 +1,12 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.11",
-    "releaseDate":  "2026-11-05",
-    "packageFileName":  "TTC_1.11.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.11/TTC_1.11.zip",
-    "sha256":  "A80DCA7EE231B490B7A00430F7855D5AD978CAC584E436A157AA27A300D6594D",
-    "size":  72083401,
-    "notes":  "TTC lay thong tin phien ban tu hai nguon GitHub doc lap, tu chon ban moi va du phong khi mot nguon loi hoac tra ban cu.",
-    "sourceCommit":  "26b51f902c3e8d3b61945ee05904fcaaca889dd0"
+    "latestVersion":  "1.12",
+    "releaseDate":  "2026-11-11",
+    "packageFileName":  "TTC_1.12.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.12/TTC_1.12.zip",
+    "sha256":  "F28746AA9A7DBACE2714CF18458D160C56CE60B9B0042DA0447F2567A933473B",
+    "size":  72085481,
+    "notes":  "TTC 1.12: da kiem chung LIKE Page bang trinh duyet va TTC nhan xu thanh cong khi Facebook GraphQL cu loi; giu nguyen cac nhiem vu khac.",
+    "sourceCommit":  "b0df4f437107dc3ae0ffd0a302b9fc3d0a02e2c7"
 }
