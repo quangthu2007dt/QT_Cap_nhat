@@ -1,12 +1,12 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.12",
-    "releaseDate":  "2026-11-11",
-    "packageFileName":  "TTC_1.12.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.12/TTC_1.12.zip",
-    "sha256":  "F28746AA9A7DBACE2714CF18458D160C56CE60B9B0042DA0447F2567A933473B",
-    "size":  72085481,
-    "notes":  "TTC 1.12: da kiem chung LIKE Page bang trinh duyet va TTC nhan xu thanh cong khi Facebook GraphQL cu loi; giu nguyen cac nhiem vu khac.",
-    "sourceCommit":  "b0df4f437107dc3ae0ffd0a302b9fc3d0a02e2c7"
+    "latestVersion":  "1.13",
+    "releaseDate":  "2026-11-12",
+    "packageFileName":  "TTC_1.13.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.13/TTC_1.13.zip",
+    "sha256":  "40E0A58E19241CAECDD90BCEE6FCF01E2E5DED3D378699ACFEB91D34871226BB",
+    "size":  72015003,
+    "notes":  "TTC 1.13: cai thien chuyen Page va Like qua trinh duyet, xac minh dung Page truoc khi nhan xu; giu nguyen luong nhiem vu va du lieu.",
+    "sourceCommit":  "93f804a600b476e5ad923598e10968e398138ea5"
 }
