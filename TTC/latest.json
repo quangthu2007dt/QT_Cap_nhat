@@ -1,12 +1,12 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.14",
+    "latestVersion":  "1.15",
     "releaseDate":  "2026-11-13",
-    "packageFileName":  "TTC_1.14.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.14/TTC_1.14.zip",
-    "sha256":  "A9F168474E9B7445A49AD8B6AD1ACFE8AA11BCCA95ADD77D0D948442CC9FEB7D",
-    "size":  72022591,
-    "notes":  "TTC 1.14: hoan thien 5 NV Page, Like VIP, cam xuc VIP, cam xuc binh luan, xac minh nhan xu va giu du lieu",
+    "packageFileName":  "TTC_1.15.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.15/TTC_1.15.zip",
+    "sha256":  "500CE9A25BA0AA66EA19B9B17A7B61AD70D3ACEDCDB1B2436888537F43EC64E2",
+    "size":  72094177,
+    "notes":  "TTC 1.15: chuan hoa ban phat hanh 5 nhiem vu Page, kiem chung nhan xu",
     "sourceCommit":  "835f566d8c1f6bf80972ecaee38bc57140d4a37d"
 }
