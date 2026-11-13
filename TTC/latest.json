@@ -1,12 +1,12 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.16",
-    "releaseDate":  "2026-11-13",
-    "packageFileName":  "TTC_1.16.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.16/TTC_1.16.zip",
-    "sha256":  "717472C62A838B96651EF0C1B50B83BD7228C1895DEB74252D149E93B142201F",
-    "size":  72094189,
-    "notes":  "TTC 1.16: 5 nhiem vu Facebook Page VIP va cam xuc binh luan; xac nhan nhan xu va giu nguyen du lieu",
-    "sourceCommit":  "835f566d8c1f6bf80972ecaee38bc57140d4a37d"
+    "latestVersion":  "1.17",
+    "releaseDate":  "2026-11-14",
+    "packageFileName":  "TTC_1.17.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.17/TTC_1.17.zip",
+    "sha256":  "4BA3CEA66153FA2D69F8E2C8703908FFD3A10DBDF9C60295E3B5BE40DFEAEAC8",
+    "size":  72094278,
+    "notes":  "TTC 1.17: Sua loi cam xuc Facebook Reel va binh luan Nha 4; xac nhan nhan xu that 1100; bao ve du lieu",
+    "sourceCommit":  "af0a2c65c9836ac3809fc1c50ba77e37c1e4899d"
 }
