@@ -1,12 +1,12 @@
 {
-    "appName":  "TTC",
-    "channel":  "stable",
-    "latestVersion":  "1.17",
-    "releaseDate":  "2026-11-14",
-    "packageFileName":  "TTC_1.17.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.17/TTC_1.17.zip",
-    "sha256":  "4BA3CEA66153FA2D69F8E2C8703908FFD3A10DBDF9C60295E3B5BE40DFEAEAC8",
-    "size":  72094278,
-    "notes":  "TTC 1.17: Sua loi cam xuc Facebook Reel va binh luan Nha 4; xac nhan nhan xu that 1100; bao ve du lieu",
-    "sourceCommit":  "af0a2c65c9836ac3809fc1c50ba77e37c1e4899d"
+  "appName": "TTC",
+  "channel": "stable",
+  "latestVersion": "1.18",
+  "releaseDate": "2026-11-14",
+  "packageFileName": "TTC_1.18.zip",
+  "packageUrl": "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.18/TTC_1.18.zip",
+  "sha256": "FC1BED4BAAFCE1FD8AC56125EF79D84E36F4C6A5B151D892CEA6B28523215528",
+  "size": 72096395,
+  "notes": "TTC 1.18: Kiem chung nhan xu Nha 4 tren NV1-NV5; sua xac minh anh va binh luan Facebook.",
+  "sourceCommit": "34ec8fe55b80e717f9c97413857f58e057b467b5"
 }
