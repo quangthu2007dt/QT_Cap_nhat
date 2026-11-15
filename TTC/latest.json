@@ -1,12 +1,12 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.20",
+    "latestVersion":  "1.21",
     "releaseDate":  "2026-11-15",
-    "packageFileName":  "TTC_1.20.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.20/TTC_1.20.zip",
-    "sha256":  "2F95B0C5E135FAFA89C960CE46185617AD0D140F1CD9EAAFA9325FD81C76CE2F",
-    "size":  72035462,
+    "packageFileName":  "TTC_1.21.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.21/TTC_1.21.zip",
+    "sha256":  "B59AF62C858C69FA189FBFAA9E4CB1853A444668CA1471BAA75C8F67FB7ABB8B",
+    "size":  72108544,
     "notes":  "",
-    "sourceCommit":  "af26e862425ace4970f20e8bc110a7b8d4f364e0"
+    "sourceCommit":  "e3461800ac5a6e3b9de88aed57a18ec9c1439f8b"
 }
