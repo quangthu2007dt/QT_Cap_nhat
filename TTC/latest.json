@@ -1,13 +1,13 @@
 {
     "appName":  "TTC",
     "channel":  "stable",
-    "latestVersion":  "1.22",
-    "releaseDate":  "2026-11-17",
-    "packageFileName":  "TTC_1.22.zip",
-    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.22/TTC_1.22.zip",
-    "assetUrl":  "https://github.com/quangthu2007dt/QT_Cap_nhat/releases/download/ttc-1.22/TTC_1.22.zip",
-    "sha256":  "F866E9D4327CFBBB55D79EDDCAB8F02D415415B72ABA1A95176687DBAD19F104",
-    "size":  72117632,
-    "notes":  "Loc nhiem vu cu, xac minh xu thuc, sua nhan dien Facebook va cap nhat ben vung.",
-    "sourceCommit":  "12cdc30a33e5af1a7b5be106c84eada7952a7608"
+    "latestVersion":  "1.23",
+    "releaseDate":  "2026-11-24",
+    "packageFileName":  "TTC_1.23.zip",
+    "packageUrl":  "https://raw.githubusercontent.com/quangthu2007dt/QT_Cap_nhat/main/TTC/releases/1.23/TTC_1.23.zip",
+    "assetUrl":  "https://github.com/quangthu2007dt/QT_Cap_nhat/releases/download/ttc-1.23/TTC_1.23.zip",
+    "sha256":  "0D5641D8970A3B32AC3F319D7EF6AA596895D7B9FE07D447447376C9DE1313D1",
+    "size":  72117635,
+    "notes":  "TTC 1.23: củng cố xác minh Like NV1 và cảm xúc Page NV3 trước khi xác nhận nhận xu; giữ nguyên dữ liệu, thứ tự nhiệm vụ và cơ chế cập nhật.",
+    "sourceCommit":  "8c0b5d0e77beb07fe7c8fa3b8df5666653922c7e"
 }
